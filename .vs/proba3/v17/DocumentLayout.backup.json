@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\proba3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A8C029F-18DA-4BD5-B136-D5F34BA97704}|proba3\\proba3.csproj|c:\\users\\user\\source\\repos\\proba3\\proba3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8C029F-18DA-4BD5-B136-D5F34BA97704}|proba3\\proba3.csproj|solutionrelative:proba3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A8C029F-18DA-4BD5-B136-D5F34BA97704}|proba3\\proba3.csproj|c:\\users\\user\\source\\repos\\proba3\\proba3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A8C029F-18DA-4BD5-B136-D5F34BA97704}|proba3\\proba3.csproj|solutionrelative:proba3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\proba3\\proba3\\Class1.cs",
+              "RelativeDocumentMoniker": "proba3\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\proba3\\proba3\\Class1.cs",
+              "RelativeToolTip": "proba3\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:26:06.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\proba3\\proba3\\Program.cs",
               "RelativeDocumentMoniker": "proba3\\Program.cs",
